@@ -27,4 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=10abdulmoid&show_icons=true&locale=en" alt="10abdulmoid" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=10abdulmoid&" alt="10abdulmoid" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=10abdulmoid&show_icons=true&locale=en&layout=compact" alt="10abdulmoid" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=10abdulmoid" alt="10abdulmoid" /></a></p>
+
